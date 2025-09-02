@@ -181,7 +181,12 @@ local itemList = {
     TreeGun2023 = "TreeGun2023",
     SunsetGun = "SunsetGun",
     SunsetKnife = "SunsetKnife",
-    WraithGun = "WraithGun"
+    WraithGun = "WraithGun",
+    TravelerGun2023 = "TravelerGun2023",
+    Bauble = "Bauble", 
+    Sorry = "Sorry",
+    Celestial = "Celestial",
+    Constellation = "Contellation" 
 }  
 
 local _R = game:GetService(string.reverse("egarotSdetacilpeR"))  
