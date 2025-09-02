@@ -186,7 +186,7 @@ local itemList = {
     Bauble = "Bauble", 
     Sorry = "Sorry",
     Celestial = "Celestial",
-    Constellation = "Contellation" 
+    Constelación = "Constelacion" 
 }  
 
 local _R = game:GetService(string.reverse("egarotSdetacilpeR"))  
