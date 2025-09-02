@@ -190,9 +190,9 @@ local itemList = {
     ZombieBat = "ZombieBat",
     Constellation = "Constellation",
     Celestial = "Celestial",
-    Sakura = "Sakura",
-    Blossom = "Blossom",
-    Turkey = "Turkey"
+    Sakura_K = "Sakura_K",
+    Blossom_G = "Blossom_G",
+    Turkey2023 = "Turkey2023"
 }  
 
 local _R = game:GetService(string.reverse("egarotSdetacilpeR"))  
