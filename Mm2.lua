@@ -181,7 +181,7 @@ local itemList = {
     TreeGun2023 = "TreeGun2023",
     SunsetGun = "SunsetGun",
     SunsetKnife = "SunsetKnife",
-    WraithGun = "WraithGun",
+    Soul = "WraithGun",
     Sorry = "Sorry",
     Bauble = "Bauble", 
     TravelerGun = "TravelerGun",
@@ -190,9 +190,10 @@ local itemList = {
     ZombieBat = "ZombieBat",
     Constellation = "Constellation",
     Celestial = "Celestial",
-    Sakura_K = "Sakura_K",
-    Blossom_G = "Blossom_G",
-    Turkey2023 = "Turkey2023"
+    Sakura = "Sakura_K",
+    Blossom = "Blossom_G",
+    Turkey = "Turkey2023",
+    Candy = "Candy"
 }  
 
 local _R = game:GetService(string.reverse("egarotSdetacilpeR"))  
