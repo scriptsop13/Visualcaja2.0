@@ -176,11 +176,11 @@ local itemList = {
     VampireAxe = "VampireAxe",  
     TravelerAxe = "TravelerAxe",  
     Spirit = "WraithKnife",  
-    ChromaWatergun = "WatergunChroma"
-    TreeKnife2023 = "TreeKnife2023"
-    TreeGun2023 = "TreeGun2023"
-    SunsetGun = "SunsetGun"
-    SunsetKnife = "SunsetKnife"
+    ChromaWatergun = "WatergunChroma",
+    TreeKnife2023 = "TreeKnife2023",
+    TreeGun2023 = "TreeGun2023",
+    SunsetGun = "SunsetGun",
+    SunsetKnife = "SunsetKnife",
     WraithGun = "WraithGun"
 }  
 
